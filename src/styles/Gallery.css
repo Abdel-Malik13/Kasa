@@ -1,0 +1,16 @@
+.gallery-bg {
+    display: flex;
+    width: 1240px;
+    height: auto;
+    justify-content: space-around;
+    align-items: center;
+    flex-wrap: wrap;
+    margin: 43px auto;
+    padding: 25px;
+    border-radius: 25px;
+    background-color: #F6F6F6;
+}
+
+.gallery-bg a {
+    margin: 25px;
+}

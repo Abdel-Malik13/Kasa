@@ -1,0 +1,29 @@
+.header {
+    display: flex;
+    width: 1240px;
+    height: 68px;
+    justify-content: space-between;
+    align-items: center;
+    margin: 45px auto;
+    /* background-color: #2a0e77; */
+}
+
+nav {
+    display: flex;
+    width: 309px;
+}
+
+ul {
+    display: flex;
+    width: 100%;
+    justify-content: space-between;
+}
+
+ul li {
+    list-style: none;
+}
+
+a {
+    font-size: 24px;
+    color: #FF6060;
+}

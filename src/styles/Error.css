@@ -1,0 +1,10 @@
+.error {
+    display: block;
+    margin: 139px auto;
+}
+
+.error-text {
+    font-size: 36px;
+    color: #FF6060;
+    text-align: center;
+}

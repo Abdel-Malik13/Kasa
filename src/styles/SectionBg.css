@@ -1,0 +1,23 @@
+.section-bg {
+    display: flex;
+    width: 1240px;
+    height: 223px;
+    position: relative;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+    border-radius: 25px;
+    font-size: 20px;
+    font-weight: 500;
+    color: #fff;
+    background-color: #FF6060;
+}
+
+.section-img {
+    object-fit: contain;
+    border-radius: 25px;
+}
+
+.section-bg h1 {
+    position: absolute;
+}
